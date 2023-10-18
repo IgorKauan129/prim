@@ -1,0 +1,84 @@
+itens de venda do e-commerce (trabalho de renata)
+
+
+1 - {Notebook Galaxy Book3 360 Windows 11 Home Intel Core i7-1360P 16GB 512 GB SSD 15.6'' Full HD AMOLED 1.46 kg
+	preço=R$8.399,9
+
+
+Marca	SAMSUNG
+Nome do modelo	NP750QFG-KS1BR
+Tamanho da tela	15 Polegadas
+Cor	Grafite
+Tamanho do disco rígido	512 GB
+Modelo da CPU	Core i7-13700K
+Tamanho instalado da memória RAM	16 GB
+Sistema operacional	Windows 11 Home
+Características especiais	Teclado retroiluminado, Áudio HD
+Descrição da placa de vídeo	Integrado
+}
+
+
+2 - {Notebook Asus Vivobook 15 X1500ea-ej3669w Intel Core i5 1135g7 2,4 Ghz 8gb Ram 256gb Ssd Windows 11 Home Intel Iris Xe 15,60 Full Hd Prata Metálico
+	preço=R$2.879,10
+
+
+Marca	ASUS
+Nome do modelo	Vivobook
+Tamanho da tela	15,6 Polegadas
+Tamanho do disco rígido	256 GB
+Modelo da CPU	Intel Core i5
+Tamanho instalado da memória RAM	8 GB
+Sistema operacional	Windows 11 Home
+Características especiais	Revestimento antirreflexo
+Descrição da placa de vídeo	Integrado
+Coprocessador gráfico	Intel Iris Xe Graphics
+}
+
+3 - {Notebook Asus Zenbook, Evo Intel Core I7-1260p, 16gb, 1tb Ssd, Tela 14´´, Windows 11, Azul Escuro - X3402za-km532w
+preco=R$7.999,00
+
+
+Marca	ASUS
+Nome do modelo	Zenbook 14 OLED
+Tamanho da tela	14 Polegadas
+Cor	Azul
+Tamanho do disco rígido	1 TB
+Modelo da CPU	Intel Core i7
+Sistema operacional	Windows 11 Home
+Características especiais	Ranhura para cartão de memória
+Descrição da placa de vídeo	Integrado
+Coprocessador gráfico	Intel Iris Xe Graphics}
+
+4 - {Avell Storm X 4090
+preço=R$29.159,90
+
+Placa de Vídeo:
+GeForce® RTX 4090 (16GB GDDR6)
+Processador:
+Intel® Core™ i9-13900HX Raptor Lake (36MB cache, 3.9GHz ~ 5,4GHz Turbo Boost Max 3.0)
+Armazenamento - [ SLOT I ]:
+Slot M.2 2280 PCIe (GEN4 x4– KEY M - 3800 Mb/s) e (GEN3 x4– KEY M - 2000 Mb/s)
+Memória:
+Suporte para até 64GB de RAM DDR5 com Dual Channel (2x 32GB) - 4800Mhz
+Armazenamento - [ SLOT II ]:
+Slot M.2 2280 PCIe (GEN4 x4– KEY M - 3800 Mb/s) e (GEN3 x4– KEY M - 2000 Mb/s)
+Tela:
+17" QHD WQXGA (2560x1600p) 16:10 - 240Hz / Matte / Contraste: 1000:1 / Brilho 350 cd/m²
+Sistema Operacional:
+Compatível com Windows 11- Home e Pro
+Garantia:
+Garantia de 12 meses (3 meses de garantia legal + 9 meses de garantia do fabricante) em mão de obra e peças
+Wireless:
+Intel® AX201 - Dual Band 2.4GHz, 5GHz (160Mhz) 2.4 Gbps + Bluetooth 5.2
+Alimentação:
+20.0V, 14.0A, 280W, Peso: 890g
+Chipset:
+Chipset Integrado
+Entradas/Saídas:
+1 USB Type C com TBT4, 2 USB 3.1 (Gen1) X2 Type A 5Gb/s, 1 USB 3.1 Ger 2x1 Type C 10Gb/s com DP (versão 1.4), Conexão P2 para Microfone, Saída HDMI 2.1, RJ-45 REDE 10/100/1000/2500, 1 Leitor de cartão SD/SDHC/SDXC/UHS-50 Interface USB 2.0, Conexão P3 para microfone e fone de ouvido
+Teclado:
+Teclado Mecânico Cherry MX – Retroiluminado em RGB por tecla – Teclado numérico integrado – Padrão ABNT2
+Bateria:
+4 células - 62.32 Wh. 4100mAh
+
+}
